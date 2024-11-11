@@ -1,0 +1,14 @@
+Oracle and .net integrate to build robust enterprise application by connection .net application to oracle database.using oracle data
+provider for .net,developes data within oracle database directly from .net application 
+program: steps to follow to connect to the oracle database
+prerequistes: oracle database client ensure you have the approprate oracle database client installed on your machine. this client
+provide the necessary components for.net application to interact with oracle database
+installlation: installlation oracle data provider
+install oracle data provider for .net (oop.net)via nuget in visual studio to enable oracle database connectivity code to connect and que
+set up connection 8 in visual studio go to "server explorer">"data connection">"add connection" choose oracle database as the provide
+enter connection detals: inspect the oracle database datasource name(dsn),username and password
+text connection:click "text connection to ensure connectivity
+build and run use c# code to connect and queey the oracle
+code b
+select
+from DVSYS."CODE{"/DVSYS,"CODE$"WHERE DVSYS."CODE$-1."1D#"CODE'$-1","ID#"}
